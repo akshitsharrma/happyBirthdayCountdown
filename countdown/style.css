@@ -1,0 +1,34 @@
+body
+{
+    background-image: url("https://images.unsplash.com/photo-1631447818577-c2beceb2bee2?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1633&q=80");
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: auto;
+    font-family: 'Italianno', cursive;
+    align-items: center;
+    text-align: center;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+   
+    box-sizing: border-box;
+}
+h1{
+    font-size: 4rem;
+    margin-top: 0% 10%;
+}
+.big-text
+{
+    font-size: 8rem;
+    line-height: 1;
+    margin: 0 2rem;
+}
+.countdownContainer
+{
+    display: flex;
+    
+}
+span{
+    font-size: 3rem;
+    text-shadow: 0in;
+}
